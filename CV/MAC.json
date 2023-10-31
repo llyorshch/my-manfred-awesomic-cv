@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "▫️",
+      "surnames": "Jorge Mora Giménez",
+      "title": "Title"
+    }
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "jorge@ge.org.es"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
