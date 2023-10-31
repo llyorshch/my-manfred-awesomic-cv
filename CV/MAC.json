@@ -1,22 +1,610 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
-      "name": "▫️",
-      "surnames": "Jorge Mora Giménez",
-      "title": "Title"
-    }
+      "name": "Jorge",
+      "surnames": "Mora Giménez",
+      "title": "Problem-solver during crisis, problem-finder when things are too calm. Self-giving-titles hater.",
+      "description": "I love tech, working with people, building things from scratch and fixing things that are really screwed up. I guess I love challenges in general.\n\nI started my career just before the tech bubble burst back in the late 90s. Since then I've been working mostly in web projects. If there's a way to describe what I know better, I think it's the Java ecosystem and databases but, I have been keeping up to date with other technologies like frontend, NoSQL and event streaming architectures. Also, I have experience working with business related matters (and people) as a business process consultant. The biggest challenge I have faced (and enjoyed) has been to manage teams of junior and senior engineers. The idiom \"like herding cats\" resonates on me to remind me how to get things right.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/d37a115a-3065-4cf7-a9e5-75120851fd1b_profile_photo_jmg.jpeg",
+        "alt": "profile_photo_JMG.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJDTGOzUD8XQ0RXQsxGLjLQF8)",
+        "country": "España",
+        "region": "Comunidad Valenciana"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jormogi/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/llyorshch"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Flowable",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/a0c1cccf-a037-462f-84d4-43ee33797ecf_linkedin-photo-46234.linkedin-photo-46234",
+            "alt": "23/10/29/a0c1cccf-a037-462f-84d4-43ee33797ecf_linkedin-photo-46234.linkedin-photo-46234"
+          }
+        },
+        "roles": [
+          {
+            "name": "IT Solutions Architect / Team Services Spain Leader",
+            "startDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "I started working for Flowable (at that time, edorasware) in the backend team of the product development branch. Currently I am a Solutions Architect working in several projects for international customers (mostly banks and fintech companies). Also, I support the team of consultants and developers working for different Flowable Projects.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "IT Solutions Architect",
+            "startDate": "2013-09-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "I worked as IT architect for the Architecture Department of the European Union Intellectual Property Office (EUIPO, formerly OHIM). I was involved in several projects at the same time. The most relevant one was the “New OHIM Website”."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "everis",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/aabab965-b932-4442-a1c2-3288dbdd98bc_linkedin-photo-46234.linkedin-photo-46234",
+            "alt": "23/10/29/aabab965-b932-4442-a1c2-3288dbdd98bc_linkedin-photo-46234.linkedin-photo-46234"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior consultant",
+            "startDate": "2006-11-01",
+            "finishDate": "2013-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alfa Desarrollo de Sistemas, S.L."
+        },
+        "roles": [
+          {
+            "name": "Developer / business analyst",
+            "startDate": "2002-05-01",
+            "finishDate": "2006-10-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Various small and mid-sized companies. "
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1998-03-01",
+            "finishDate": "2002-04-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Dark Souls Remastered",
+          "description": "I finished Dark Souls Remastered by myself.",
+          "URL": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Dark-Souls-Remastered-1325790.html",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/f2bd055b-ba58-47dc-b8a2-6bb923cda23e_dark-souls.png",
+            "alt": "dark souls.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2020-07-01"
+      },
+      {
+        "details": {
+          "name": "LibreCon 2018: Introducing Machine Learning in Business Workflows with Flowable",
+          "URL": "https://librecon.io/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/bd5188a1-84bb-47af-856d-9f95a1e19152_librecon_2018.jpg",
+            "alt": "Librecon_2018.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2018-11-01"
+      },
+      {
+        "details": {
+          "name": "Codemotion Madrid 2018: Hipster Workflows talk",
+          "description": "The talk was titled: \"Hipster Workflows / How to make your business processes fit into Cloud/Serverless architectures without regrets\". I had the opportunity to present a proposal of how to take BPMN/CMMN workflows to the Cloud. The talk was not sponsored/paid by my company. ",
+          "URL": "https://madrid2018.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=10185",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/e2fe7919-2789-4566-822b-a3da292b6f8d_codemotion.jpg",
+            "alt": "codemotion.JPG"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2018-11-01",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "VLC TechFest 2018: Stop pretending you understand Blockchain",
+          "description": "By that time, I did not understood blockchain, so I decided to give a public talk on the matter. ",
+          "URL": "https://llyorshch.github.io/blockchain-vlctechfest2018-talk/#1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/896eb9e6-8357-4f70-ab60-ff7820e0bdae_vlctechfest2018.jpg",
+            "alt": "VLCTechFest2018.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2018-06-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "EJB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Informix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JBoss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LifeRay",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SVN",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swing",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Transact-SQL (T-SQL)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMware ESXi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Weblogic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Websphere",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Oracle Certified Master, Java EE 5 Enterprise Architect",
+        "startDate": "2011-08-01",
+        "institution": {
+          "name": "Oracle",
+          "description": "Application Design Concepts and Principles, Common Architectures, Integration and Messaging, Business Tier Technologies, Web Tier Technologies, Applicability of Java EE Technology, Patterns, Security",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/29/6204dac4-2c48-4705-8e3b-f787d2681bd9_java_certified_archi.jpeg",
+            "alt": "Java_Certified_architect.jpeg"
+          }
+        },
+        "finishDate": "2011-08-01",
+        "linkedCompetences": [
+          {
+            "name": "EJB",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JSP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Superior Technician of Computer Application Development.",
+        "startDate": "1996-09-01",
+        "institution": {
+          "name": "I. F. P. La Senia en Paiporta. (Valencia)",
+          "description": "Analysis and design of software applications. Computer Information Systems. Networking.",
+          "URL": "https://portal.edu.gva.es/46017675/es/inici/"
+        },
+        "finishDate": "1998-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      }
+    ]
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jormogi/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/llyorshch",
+          "type": "github"
+        }
+      ],
       "contactMails": [
-        "jorge@ge.org.es"
+        "eljolge@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "630283654",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "LifeRay",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Struts",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Developer Evangelist & Advocate",
+        "Engineering Management",
+        "Tech Lead"
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Elasticsearch",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Estoy buscando un trabajo que me permita seguir desarrollando mi carrera como manager de equipos técnicos. Estoy más interesado en la parte técnica que en la parte de gestión, pero no me importa involucrarme en la parte de gestión también.\n\nLa razón es que es una función que he desempeñado durante un tiempo pero en mi actual empresa veo que no es posible. Estoy encasillado com arquitecto de soluciones trabajando de manera individual durante la mayor parte del tiempo. Aunque me han dado cierta libertad de movimientos para apoyar al resto del equipo, no estoy teniendo la oportunidad de liderar y hacer crecer el equipo en todos los sentidos. ",
+    "goodPractices": "No non-sense approach. Not carried away by hyped technologies/practices. I believe in \"rough consensus and running code\"."
   }
 }
