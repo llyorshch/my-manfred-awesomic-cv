@@ -43,11 +43,11 @@
         },
         "roles": [
           {
-            "name": "IT Solutions Architect / Team Services Spain Leader",
+            "name": "IT Solutions Architect / Matrix manager",
             "startDate": "2015-06-01",
             "challenges": [
               {
-                "description": "I started working for Flowable (at that time, edorasware) in the backend team of the product development branch. Currently I am a Solutions Architect working in several projects for international customers (mostly banks and fintech companies). Also, I support the team of consultants and developers working for different Flowable Projects.  "
+                "description": "I started working for Flowable (at that time, edorasware) in the backend team of the product development branch. Currently I am a Solutions Architect working in several projects for international customers (mostly banks and fintech companies). Also, I am a  [matrix manager](https://en.wikipedia.org/wiki/Matrix_management) of consultants and developers working for different projects. Our projects are typically Java/Spring/React, including  integrations with Kafka and Elasticsearch and deployments in different Cloud providers. I regularly collaborate with the sales department in pre-sales sessions and PoCs."
               }
             ],
             "competences": [
