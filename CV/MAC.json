@@ -35,11 +35,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Flowable",
+          "name": "Flowable | Mimacom",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/8652780c-aef5-48d6-96bd-8d52300f8303_flowable_logo.png",
             "alt": "flowable_logo.png"
-          }
+          },
+          "URL": "https://www.flowable.com/"
         },
         "roles": [
           {
