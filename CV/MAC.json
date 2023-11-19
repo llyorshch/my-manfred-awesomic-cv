@@ -172,11 +172,12 @@
       },
       {
         "organization": {
-          "name": "everis",
+          "name": "everis (now NTT Data)",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/72657329-0a6e-438d-b231-87d527159730_everis_ntt_data.png",
             "alt": "everis_ntt_data.png"
-          }
+          },
+          "URL": "https://es.nttdata.com/"
         },
         "roles": [
           {
@@ -185,7 +186,7 @@
             "finishDate": "2013-06-30",
             "challenges": [
               {
-                "description": "I worked as IT architect for the Architecture Department of the European Union Intellectual Property Office (EUIPO, formerly OHIM). I was involved in several projects at the same time. The most relevant one was the “New OHIM Website”."
+                "description": "My career in everis (now NTT Data)  started as Senior .Net developer. I switched to Java in my second project there. In 2010 I was already working as a Java Architect and in 2011 I got my Oracle Java EE certification. At that time I was also in charge or coordinating the work of development teams.  "
               }
             ]
           }
