@@ -204,7 +204,12 @@
           {
             "name": "Developer / business analyst",
             "startDate": "2002-05-01",
-            "finishDate": "2006-10-01"
+            "finishDate": "2006-10-01",
+            "challenges": [
+              {
+                "description": "Alfa Desarrollo was a small company with a development department and several products based in Microsoft technologies (VB, SQL Server, etc.). My role in the company was \"Analyst/developer\" but I did a lot of things: IT, Sysadmin, Comms, Pre-sales... It was a great learning experience. We did a lot of things with very few resources."
+              }
+            ]
           }
         ]
       },
