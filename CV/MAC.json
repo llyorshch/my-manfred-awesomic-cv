@@ -223,12 +223,12 @@
         },
         "roles": [
           {
-            "name": "Developer",
+            "name": "Web Developer",
             "startDate": "1998-03-01",
             "finishDate": "2002-04-01",
             "challenges": [
               {
-                "description": "I worked as a developer for several small and mid-sized companies. More details in the full CV."
+                "description": "I worked as a developer for several small and mid-sized companies: QNK Sistemas (trainee) , Sitecnic (co-founder), Coverlink (junior developer) and Linkz Multimedia (mid-developer). I lived through the rise and fall of the dot-com bubble, the Y2K effect and the migration to Euro."
               }
             ]
           }
