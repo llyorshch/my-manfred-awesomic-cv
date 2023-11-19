@@ -150,11 +150,12 @@
       },
       {
         "organization": {
-          "name": "Freelance",
+          "name": "EUIPO (as Freelance)",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/45d48201-e781-43be-a5ed-40c17c8baff5_freelance_icon.png",
-            "alt": "freelance_icon.png"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/19/784dd1c6-dccf-40a4-8dda-93a98e25fc73_logo-euipo.png",
+            "alt": "Logo EUIPO.png"
+          },
+          "URL": "https://www.euipo.europa.eu/"
         },
         "roles": [
           {
