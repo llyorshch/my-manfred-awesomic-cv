@@ -44,8 +44,9 @@
         },
         "roles": [
           {
-            "name": "IT Solutions Architect / Matrix manager",
+            "name": "IT Solutions Architect",
             "startDate": "2015-06-01",
+            "finishDate": "2023-12-01",
             "challenges": [
               {
                 "description": "I started working for Flowable (f.k.a. edorasware) in the backend team of the product development branch. Currently I am a Solutions Architect working in several projects for international customers (mostly banks and fintech companies). My work as a Flowable solutions architect is to apply my knowledge in the product itself, in industry standards (BPMN, CMMN and DMN) and general technologies like Java, Spring, React, Elasticsearch, Kafka, Cloud, etc. Anything that contributes to help customers succeed in their projects. \n\nAlso, I am a  [matrix manager](https://en.wikipedia.org/wiki/Matrix_management) of consultants and developers working for different projects with many of the aforementioned technologies and more. I regularly collaborate with the sales department in pre-sales sessions and PoCs. "
@@ -307,12 +308,7 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "CA",
-        "fullName": "Valenciano",
+        "fullName": "Catalán / Valenciano",
         "level": "Professional working proficiency"
       },
       {
@@ -676,12 +672,6 @@
       ],
       "contactMails": [
         "jorge@ge.org.es"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "630283654",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
