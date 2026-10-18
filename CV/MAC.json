@@ -672,6 +672,12 @@
       ],
       "contactMails": [
         "jorge@ge.org.es"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "630283654",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
