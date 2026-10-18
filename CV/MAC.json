@@ -35,6 +35,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "Flywire",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/10/18/8c8c1c16-d6a2-4a6c-b160-234ba5fc5634_flywire_logo.svg",
+            "alt": "Flywire_logo.svg"
+          },
+          "URL": "https://www.flywire.com"
+        },
+        "roles": [
+          {
+            "name": "Engineer Manager",
+            "startDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "For the past three years, I've led Flywire's Inbound Payments team, which owns the core payment intake and processing that the rest of the platform depends on. On the people side, I hire, coach and develop the engineers who keep that system running and growing. I run one-on-ones, guide careers, give feedback and handle performance reviews, and I build a team culture that can handle the pressure of owning money-movement systems where mistakes are costly. On the delivery side, I work with product, compliance, finance and operations, plus the teams that rely on inbound payments, to set priorities and plan work. I balance new features against reliability, security, regulatory requirements and paying down technical debt. My technical judgment shapes architecture decisions in a domain where correctness, idempotency, reconciliation and uptime matter most. I also make sure the team has strong engineering practices and incident response. Much of my work is clearing obstacles, passing context between leadership and the team, and making decisions so engineers can focus on building a payments core that's dependable and scales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Flowable | Mimacom",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/8652780c-aef5-48d6-96bd-8d52300f8303_flowable_logo.png",
